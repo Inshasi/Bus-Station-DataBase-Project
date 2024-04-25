@@ -79,5 +79,4 @@ By implementing the Bus Station Database Project, the bus station will benefit f
 ## Flutter Interface
 The project includes a Flutter mobile application for easy access to bus station functionalities. This mobile app provides a user-friendly interface for booking tickets, managing users, allocating buses, and tracking routes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
