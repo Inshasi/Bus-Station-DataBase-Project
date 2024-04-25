@@ -4,10 +4,10 @@
 The Bus Station Database Project aims to create a comprehensive and efficient system for managing the operations of a bus station. The project will develop a database that encompasses various entities such as persons, users, drivers, tickets, buses, routes, and checkpoints. The database will facilitate ticket booking, user management, bus allocation, and route tracking functionalities.
 
 ## Team Members
-- Yousef Jarbou (20200306)
-- Mohammad Inshasi (20200841)
-- Zaid Abdullah (20200284)
-- Mohammad Kharroub (20200244)
+- Yousef Jarbou 
+- Mohammad Inshasi 
+- Zaid Abdullah 
+- Mohammad Kharroub
 
 ## Description
 The core entities in the database include "Person," which represents individuals associated with the bus station. A person is identified by their ID and has attributes such as name (first name and last name), birthdate, age, email, password, and mobile number. Persons can either be classified as "Users" or "Drivers," but not both simultaneously. Users have an additional attribute of an ID, while drivers have their driving license type recorded.
